@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pwa/static/css/main.c42a7d1d.chunk.css",
+    "main.js": "/pwa/static/js/main.5a7cc52e.chunk.js",
+    "main.js.map": "/pwa/static/js/main.5a7cc52e.chunk.js.map",
+    "runtime-main.js": "/pwa/static/js/runtime-main.0dbbb068.js",
+    "runtime-main.js.map": "/pwa/static/js/runtime-main.0dbbb068.js.map",
+    "static/js/2.5a343337.chunk.js": "/pwa/static/js/2.5a343337.chunk.js",
+    "static/js/2.5a343337.chunk.js.map": "/pwa/static/js/2.5a343337.chunk.js.map",
+    "index.html": "/pwa/index.html",
+    "precache-manifest.d2c20d9b04dc4a643459b95ce20eb491.js": "/pwa/precache-manifest.d2c20d9b04dc4a643459b95ce20eb491.js",
+    "service-worker.js": "/pwa/service-worker.js",
+    "static/css/main.c42a7d1d.chunk.css.map": "/pwa/static/css/main.c42a7d1d.chunk.css.map",
+    "static/js/2.5a343337.chunk.js.LICENSE.txt": "/pwa/static/js/2.5a343337.chunk.js.LICENSE.txt",
+    "static/media/chart.png": "/pwa/static/media/chart.54339eb5.png",
+    "static/media/logo_yamaha.png": "/pwa/static/media/logo_yamaha.27306f28.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dbbb068.js",
+    "static/js/2.5a343337.chunk.js",
+    "static/css/main.c42a7d1d.chunk.css",
+    "static/js/main.5a7cc52e.chunk.js"
+  ]
+}
